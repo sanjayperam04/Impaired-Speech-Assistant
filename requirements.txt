@@ -1,0 +1,9 @@
+streamlit==1.28.1
+speechrecognition==3.10.0
+transformers==4.35.2
+torch==2.1.0
+nltk==3.8.1
+textdistance==4.6.0
+pyttsx3==2.90
+av==10.0.0
+streamlit-webrtc==0.47.1
