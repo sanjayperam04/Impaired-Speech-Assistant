@@ -103,8 +103,8 @@ Advanced algorithms that understand the probability and context of word meanings
                               │
                     ┌─────────▼─────────┐
                     │  Context Engine   │
-                    │  Grammar Validator │
-                    │  Alternative Gen   │
+                    │  Grammar Validator│
+                    │                   │
                     └───────────────────┘
 ```
 
